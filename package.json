@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://huyenuiio.github.io/my-app",
+  "homepage": "https://Huyenuiio.github.io/my-app",
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
@@ -14,7 +14,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",    
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
